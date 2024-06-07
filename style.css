@@ -8,7 +8,7 @@
 }
 
 .titulo-centralizado{
-  text-align: center;
+text-align: center;
 }
 
 p {
@@ -20,7 +20,7 @@ p {
 }
 
 em strong{
-  color: crimson;
+  color: darkred;
 }
 
 #banner{
@@ -28,16 +28,16 @@ em strong{
 }
 
 ul {
-  display: inline-block;
+  display: inline-block; 
   vertical-align: top;
-  width: 20%;
-  margin-right: 15%;
+width: 20%;
+margin-right: 15%;
 }
 
 #beneficios {
   width: 50%;
 }
 
-.item {
-  font-style: italic;
+.item{
+font-style: italic;
 }
