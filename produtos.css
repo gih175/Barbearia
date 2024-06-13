@@ -104,3 +104,37 @@ form{
   padding: 10px 25px;
   width: 50%;
 }
+:checbox{
+  margin: 20px 0;
+}
+.enviar {
+  width: 40%;
+  padding: 15px 0;
+  background: orange;
+  color: white; 
+  font-weight: bold
+  fon-size: 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+.enviar:hover{
+  background-color: powderblue;
+  transform: scale(0.8);
+  transition: 1.1s;
+  {
+    table{
+      margin: 20px 0 40px;
+    }
+    thead{
+      background: #555555;
+      color: #FFFFFF;
+      font-weight: bold;
+    }
+  
+td, th{
+  border: 2px solid #000000;
+  padding: 10px 15px;
+}
+  
