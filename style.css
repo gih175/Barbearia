@@ -8,36 +8,36 @@
 }
 
 .titulo-centralizado{
-text-align: center;
+  text-align: center;
 }
 
 p {
   text-align: center;
 }
 
-#missao{
+#missao {
   font-size: 20px;
 }
 
 em strong{
-  color: darkred;
+  color: SaddleBrown;
 }
 
-#banner{
+#banner {
   width: 100%;
 }
 
 ul {
-  display: inline-block; 
+  display: inline-block;
   vertical-align: top;
-width: 20%;
-margin-right: 15%;
+  width: 20%;
+  margin-right: 15%;
 }
 
 #beneficios {
   width: 50%;
 }
 
-.item{
-font-style: italic;
+.item {
+  font-style: italic;
 }
