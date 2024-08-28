@@ -235,3 +235,12 @@ content: "]";
   width: 940px;
   margin: 0 auto;
 }
+
+@media screen and max-width: 480px){
+  .caixa, .principal, .mapa-conteudo, .mapa, .benefícios, .video {
+    width: auto;
+nav {
+  position: static;
+} 
+  
+  }
